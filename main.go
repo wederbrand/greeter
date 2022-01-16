@@ -7,6 +7,6 @@ import (
 )
 
 func main() {
-	greeting := greeting.greeting()
+	greeting := greeting.Greeting()
 	fmt.Println("hello", greeting)
 }
